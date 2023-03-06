@@ -1,3 +1,8 @@
+
+#   Saya Achmad Fauzan NIM 2108061 mengerjakan soal Latihan Praktikum 4 dalam mata
+#   kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya
+#   tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 from Course import Course
 from Dosen import Dosen
 from Mahasiswa import Mahasiswa
